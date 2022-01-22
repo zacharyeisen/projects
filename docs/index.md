@@ -1,4 +1,4 @@
-<p align="center">
+
 #PROJECT PAGE
 
 [RETURN HOME](https://zacharyeisen.github.io)
@@ -15,4 +15,4 @@ THE ABOVE LINKS TO MY EYES REPO
 ```markdown
 THE ABOVE LINKS TO MY BUS TRACKER REPO
 ```
-</p>
+
