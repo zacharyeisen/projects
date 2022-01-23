@@ -4,15 +4,9 @@
 [RETURN HOME](https://zacharyeisen.github.io)
 
 ## PACMAN
+[PLAY GAME](https://zacharyeisen.github.io/PacMan/)
 ```markdown
-THE ABOVE LINKS TO MY PACMAN REPO
+THE ABOVE LINKS TO MY PACMAN GAME
 ```
-## EYES
-```markdown
-THE ABOVE LINKS TO MY EYES REPO
-```
-## BUS TRACKER
-```markdown
-THE ABOVE LINKS TO MY BUS TRACKER REPO
-```
+
 
