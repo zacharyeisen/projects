@@ -9,4 +9,9 @@
 THE ABOVE LINKS TO MY PACMAN GAME
 ```
 
-
+# EYE MOVEMENT
+[PLAY GAME](https://zacharyeisen.github.io/eyes/)
+```markdown
+THE ABOVE LINK GOES TO MY EYES PAGE. WHEN FINISHED, 
+CLICK BACK ON YOUR BROWSER TAB.
+```
