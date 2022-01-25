@@ -8,7 +8,7 @@
 
 [REPOSITORY](https://github.com/zacharyeisen/pacman)
 
-[read me link](https://github.com/zacharyeisen/PacMan/blob/3e9777a88db1da9c3c549298827b72f437499a6b/README.md)
+[read me link](https://github.com/zacharyeisen/PacMan/blob/d500b4a329fc8e98e2814d4f7c0cbaaf9336ef36/README.md)
 ```markdown
 THE TOP LINK GOES TO MY PACMAN GAME.
 THE MIDDLE LINK GOES TO THE REPOSITORY.
